@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @safayetjamil647
-- 👀 I’m interested in ... webapp
-- 🌱 I’m currently learning ... Software Engineering and cloud computing
-- 💞️ I’m looking to collaborate on ... django react project 
-- 📫 How to reach me ... work.jamil4@gmail.com
+-👋Hi, I’m @safayetjamil647
+-I’m interested in ... webapp
+-I’m currently learning ... Software Engineering and cloud computing
+-I’m looking to collaborate on ... django react project 
+-How to reach me ... work.jamil4@gmail.com
