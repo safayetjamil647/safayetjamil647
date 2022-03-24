@@ -1,5 +1,5 @@
 -👋Hi, I’m @safayetjamil647
--I’m interested in ... webapp
+-I’m interested in ... Devops
 -I’m currently learning ... Software Engineering and cloud computing
--I’m looking to collaborate on ... django react project 
+-I’m looking to collaborate on ... Devops Open Source Project
 -How to reach me ... work.jamil4@gmail.com
