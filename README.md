@@ -1,5 +1,5 @@
 -👋Hi, I’m @safayetjamil647
 -I’m interested in ... Devops and Kubernetes with Azure and AWS Cloud
--I’m currently learning ... Apache Kafka 
--I’m looking to collaborate on ... Devops Open Source Project
--How to reach me ... work.jamil4@gmail.com
+-I’m currently learning ... Apache Kafka and Blockchain
+-I’m looking to collaborate on ... Blockchain Devops Project 
+-How to reach me ... kazisafayetjamil@gmail.com
