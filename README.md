@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 I'm a devops engineer who loves to work with latest and complex devops technologies.
-Currently I am working with Apache Kafka, Blockchain, and Kubernetes 
+Currently I am working with Devops, DevSecOps, and Kubernetes 
 
 
 ## 🔗 Links
@@ -17,7 +17,7 @@ Social Links for Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safayet-jamil-28781b153/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SafayetJamil14)
 ## 🛠 Skills
-Python, Confluent Kafka, Docker, Kubernetes,Blockchain, Github Actions, Jenkins, Gitlab, AWS and Azure (Multi Cloud), On Premise (Linux/Windows) 
+Python, Confluent Kafka, Docker, Kubernetes, Github Actions, Jenkins, Gitlab, Azure SME
 
 ## Contact 
 kazisafayetjamil@gmail.com
