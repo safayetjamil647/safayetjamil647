@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
-I'm a SRE engineer who loves to work with latest and complex SRE technologies.
-Currently I am working with SRE, DevSecOps, and Cloud Native Tools 
+I'm a Devops engineer who loves to work with latest and complex Devops tools and technologies.
+
 
 
 ## 🔗 Links
